@@ -5,6 +5,6 @@
 
 后发现 ImYrS 为源代码作者，fgr178707 非原创 是在源代码基础上进行修改
 
-找到源代码仓库后进行配置
+现找到源代码仓库后进行配置
 
 感谢 @ImYrS：https://github.com/ImYrS/aliyun-auto-signin
